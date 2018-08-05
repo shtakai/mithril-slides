@@ -1,4 +1,7 @@
 # mithril-slides
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/mithril-slides.svg)](https://www.guardrails.io)
+
 A Keynote-inspired presentation app written with Mithril
 
 ![screenshots](https://cloud.githubusercontent.com/assets/592709/17454537/012dc70c-5bc4-11e6-86e1-5d5ce2bc35b8.gif)
